@@ -1,2 +1,2 @@
 # Github test
-Github testing readm
+Github testing readme
